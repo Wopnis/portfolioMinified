@@ -584,8 +584,8 @@ h2.works-title:after {
   }
 
   .s-about {
-    padding-top: 70px;
-    padding-left: 30px
+    padding-left: 30px;
+    min-height: 100vh;
   }
 
   .about-content {
@@ -600,7 +600,6 @@ h2.works-title:after {
 
   .about-content p {
     padding-left: 0;
-    margin-top: 50px;
     width: 400px;
     font-size: 16px
   }
